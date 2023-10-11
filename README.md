@@ -1,6 +1,4 @@
-- 👋 Hi, I’m a highschooler named _____
-- 👀 I’m interested in stuff
-- 🌱 I’m currently learning java and more
-- 📫 How to reach me: don't 
-
+- Good Day, and thank you for coming to my page
+- I am currently learning Java through my school and am also apart of a FRC team
+- Have a nice day :)
 
